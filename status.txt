@@ -1,0 +1,8 @@
+Michael Shkolnik- 
+
+Project 1 works as required. It correctly understands if the password is weak and will keep prompting the user to re-enter until it is strong.
+I added some general comments before the functions that explain what it does.
+
+NOTE: when you copy and paste the code into VIM for some reason the comments get extended all the way. 
+So you have to remove all the comments and then it works great. 
+Also for some reason when you paste it into Vim the spacing and indexing gets messed up so I guess its something to do with the editor. 
